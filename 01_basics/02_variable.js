@@ -1,6 +1,6 @@
 "use strict";  // ------> treat all JS code as a newer version.
 
-//alert(3 + 3)  // here it gives error because we are using node js ,not browser.
+//alert(3 + 3)--->it gives us pop up window in the browser but here it gives error because we are using node js ,not browser.
 
 console.log(3 + 
     3)  // ---->this is bad practice to write a code 
